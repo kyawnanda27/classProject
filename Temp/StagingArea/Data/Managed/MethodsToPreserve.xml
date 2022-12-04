@@ -1,0 +1,26 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ButtonFunctions">
+			<method name="PlayGame"/>
+			<method name="ToInstructions"/>
+			<method name="ToMainMenu"/>
+			<method name="ToMainMenu"/>
+			<method name="ToMainMenu"/>
+			<method name="ToMainMenu"/>
+			<method name="ToMainMenu"/>
+			<method name="ToMainMenu"/>
+			<method name="ToSetting"/>
+		</type>
+		<type fullname="PauseResume">
+			<method name="Pause"/>
+			<method name="Pause"/>
+			<method name="Pause"/>
+			<method name="Resume"/>
+			<method name="Resume"/>
+			<method name="Resume"/>
+		</type>
+		<type fullname="SliderFunction">
+			<method name="changeVolume"/>
+		</type>
+	</assembly>
+</linker>

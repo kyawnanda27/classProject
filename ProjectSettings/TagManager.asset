@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Ground
+  - balloon
+  - Nail
+  - Balloon
+  - Gamecontroller
+  - Distractor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - distractor
+  - Water
+  - UI
+  - player
+  - balloon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3040087797
+    locked: 0
+  - name: sun
+    uniqueID: 3105532159
+    locked: 0
+  - name: cloud
+    uniqueID: 930546735
+    locked: 0
+  - name: distractor
+    uniqueID: 2903961409
+    locked: 0
+  - name: nail
+    uniqueID: 1665040371
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
